@@ -1,0 +1,78 @@
+.tabela {
+    width: 720px;
+    height: 442px;
+    border: 1px solid black;
+    vertical-align: middle;
+    margin-left: 23%;
+    margin-top: 5%;
+}  
+.linhafina {
+    width: 720px;
+    height: 35px;
+    float: left;
+}
+.linhaintervalo {
+    width: 720px;
+    height: 28px;
+    float: left;
+   
+}
+.inter {
+    width: 120px;
+    height: 20px;
+    border: 1px solid black;
+}
+.turno {
+    border: 1px solid black;
+    width: 715px;
+    height: 30px;
+    float: left;
+}
+.info {
+    border: 1px solid black;
+    width: 114px;
+    height: 30px;
+}
+.linha {
+    width: 720px;
+    height: 30px;
+    float: left;
+   
+}
+.linhapeyer {
+    width: 720px;
+    float: left;
+    text-align: center;
+}
+.infopeyer {
+    width: 114px;
+    height: 60px;
+    border: 1px solid black;
+    text-align: center;
+}
+.corazulclaro {
+    background-color: lightblue;
+}
+.corverde {
+    background-color: greenyellow;
+}
+.corroxo {
+    background-color: rgb(133, 93, 133);
+}
+.corvermelho {
+    background-color: crimson;
+}
+.corlaranja {
+    background-color: orange;
+}
+.corazul {
+    background-color: lightseagreen;
+}
+.corrosa {
+    background-color: pink;
+}
+.corcinza {
+    background-color: grey;
+}
+.corcinzaclaro {
+    background-color: lightgray;}
